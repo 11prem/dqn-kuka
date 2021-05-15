@@ -1,0 +1,9 @@
+nohup python learnDQN.py -f 1 -s 10000 -a F > /dev/null 2>&1 &
+nohup python learnDQN.py -f 1 -s 100000 -a F > /dev/null 2>&1 &
+nohup python learnDQN.py -f 1 -s 1000000 -a F > /dev/null 2>&1 &
+nohup python learnDQN.py -f 5 -s 10000 -a F > /dev/null 2>&1 &
+nohup python learnDQN.py -f 5 -s 100000 -a F > /dev/null 2>&1 &
+nohup python learnDQN.py -f 5 -s 1000000 -a F > /dev/null 2>&1 &
+nohup python learnDQN.py -f 10 -s 10000 -a F > /dev/null 2>&1 &
+nohup python learnDQN.py -f 10 -s 100000 -a F > /dev/null 2>&1 &
+nohup python learnDQN.py -f 10 -s 1000000 -a F > /dev/null 2>&1 &
